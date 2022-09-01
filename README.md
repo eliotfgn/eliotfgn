@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Eliot Fagnon
 ====================================================================================================================================
 
-FullStack Web Developper and AI lover
+Web and Mobile Developper
 -------------------------------------
 
-I am a motivated computer science student, learning to code for 3 years now. I love web development, machine learning, game development and competitive programming.
+I am a motivated computer science student, learning to code for 3 years now. I love web development, mobile development with flutter, and competitive programming.
 
 * 🌍  I'm based in Cotonou, Benin
 * ✉️  You can contact me at [efagnon2002@gmail.com](mailto:efagnon2002@gmail.com)
