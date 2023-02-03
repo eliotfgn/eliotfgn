@@ -49,6 +49,6 @@ I am a motivated computer science student, learning to code for 3 years now. I l
 
 <a href="http://www.github.com/eliotfgn"><img src="https://github-readme-stats.vercel.app/api?username=eliotfgn&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="eliotfgn's GitHub stats" /></a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=eliotfgn&theme=leafy&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=eliotfgn&theme=onedark_duo)](https://git.io/streak-stats)
 
 <a href="https://github.com/eliotfgn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliotfgn&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
