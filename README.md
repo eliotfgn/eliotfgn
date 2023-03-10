@@ -8,8 +8,7 @@ I am a motivated computer science student, learning to code for 3 years now. I l
 
 * 🌍  I'm based in Cotonou, Benin
 * ✉️  You can contact me at [efagnon2002@gmail.com](mailto:efagnon2002@gmail.com)
-* 🚀  I'm currently working on [Library management website](http://github.com/eliotfgn/library-manager)
-* 🧠  I'm learning Spring boot, Angular and Flutter
+* 🧠  I'm learning Nodejs, React and Flutter
 
 ### Skills
 
